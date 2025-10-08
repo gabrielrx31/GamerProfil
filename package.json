@@ -1,0 +1,23 @@
+{
+  "name": "gamerprofil",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gamerServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielrx31/GamerProfil.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielrx31/GamerProfil/issues"
+  },
+  "homepage": "https://github.com/gabrielrx31/GamerProfil#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
